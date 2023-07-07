@@ -2,73 +2,62 @@
 [
     {
       "titulo": "Favo",
-      "creditos": "test",
-      "imagem": "/assets/imagens/foto-1.png",
-      "id": "1",
-      "tag": "Galáxias"
+      "descricao": "É um aplicativo de compra e venda de produtos, nele encontramos desde uma criação de conta como vendedor quanto uma criação de conta para comprador, nele foi utilizado de tecnologias como mobx,getIt e Dio.",
+      "imagem": "/assets/imagens/foto-1.webp",
+      "id": "1"
     },
     {
       "titulo": "Nome da Foto",
-      "creditos": "Alura Space",
-      "imagem": "/assets/imagens/foto-2.png",
-      "id": "2",
-      "tag": "Estrelas"
+      "descricao": "Alura Space",
+      "imagem": "/assets/imagens/foto-2.webp",
+      "id": "2"
     },
     {
       "titulo": "Nome da Foto",
-      "creditos": "Alura Space",
-      "imagem": "/assets/imagens/foto-3.png",
-      "id": "3",
-      "tag": "Lua"
+      "descricao": "Alura Space",
+      "imagem": "/assets/imagens/foto-3.webp",
+      "id": "3"},
+    {
+      "titulo": "Nome da Foto",
+      "descricao": "Alura Space",
+      "imagem": "/assets/imagens/foto-4.webp",
+      "id": "4"
     },
     {
       "titulo": "Nome da Foto",
-      "creditos": "Alura Space",
-      "imagem": "/assets/imagens/foto-4.png",
-      "id": "4",
-      "tag": "Galáxias"
+      "descricao": "Alura Space",
+      "imagem": "/assets/imagens/foto-5.webp",
+      "id": "5"
     },
     {
       "titulo": "Nome da Foto",
-      "creditos": "Alura Space",
-      "imagem": "/assets/imagens/foto-5.png",
-      "id": "5",
-      "tag": "Estrelas"
+      "descricao": "Alura Space",
+      "imagem": "/assets/imagens/foto-6.webp",
+      "id": "6"
     },
     {
       "titulo": "Nome da Foto",
-      "creditos": "Alura Space",
-      "imagem": "/assets/imagens/foto-6.png",
-      "id": "6",
-      "tag": "Nebulosas"
+      "descricao": "Alura Space",
+      "imagem": "/assets/imagens/foto-7.webp",
+      "id": "7"
     },
     {
       "titulo": "Nome da Foto",
-      "creditos": "Alura Space",
-      "imagem": "/assets/imagens/foto-7.png",
-      "id": "7",
-      "tag": "Galáxias"
+      "descricao": "Alura Space",
+      "imagem": "/assets/imagens/foto-8.webp",
+      "id": "8"
     },
     {
       "titulo": "Nome da Foto",
-      "creditos": "Alura Space",
-      "imagem": "/assets/imagens/foto-8.png",
-      "id": "8",
-      "tag": "Nebulosas"
+      "descricao": "Alura Space",
+      "imagem": "/assets/imagens/foto-9.webp",
+      "id": "9"
     },
     {
       "titulo": "Nome da Foto",
-      "creditos": "Alura Space",
-      "imagem": "/assets/imagens/foto-9.png",
-      "id": "9",
-      "tag": "Estrelas"
-    },
-    {
-      "titulo": "Nome da Foto",
-      "creditos": "Alura Space",
-      "imagem": "/assets/imagens/foto-10.png",
-      "id": "10",
-      "tag": "Estrelas"
+      "descricao": "Alura Space",
+      "imagem": "/assets/imagens/foto-10.webp",
+      "id": "10"
     }
   ]
   

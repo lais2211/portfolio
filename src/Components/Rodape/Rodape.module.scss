@@ -14,15 +14,10 @@
   box-sizing: border-box;
 
   &__icones {
-    width: 10%;
+    width: 5%;
     display: flex;
     justify-content: space-between;
     cursor: pointer;
   }
 
-  p {
-    margin: 0;
-    color: $cor-do-texto;
-    font-family: $fonte-normal;
-  }
 }

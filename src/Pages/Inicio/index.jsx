@@ -10,10 +10,10 @@ return(
     <main>
     <section className={styles.principal}>
     <Menu/>
-        </section>
-        <div className={styles.galeria}>
-        <Galeria/>
+    <div className={styles.galeria}>
+    <Galeria/>
     </div>
+    </section>
     </main>
     <Rodape/>
     </>

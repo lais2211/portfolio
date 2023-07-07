@@ -1,5 +1,3 @@
-import coracao from './icones/favorito.png'
-import open from './icones/open.png'
 
 const Cards = ({itens,styles}) => {
 
@@ -10,9 +8,9 @@ return(
       <li key={item.id} className={styles.galeria__card}>
         <img className={styles.galeria__imagem} src={item.imagem} alt={item.titulo}/>
         <p className={styles.galeria__descricao}>{item.titulo}</p>
-      <div>
-        <p>{item.creditos}</p>
-      </div>
+        <div>
+        <p>{item.descricao}</p>
+        </div>
       </li>
     )})}
   </ul>
