@@ -36,6 +36,7 @@
       position: relative;
       bottom: -15px;
   }
+  
   div{
     display: inline-block;
     width: 10%;
@@ -47,6 +48,7 @@
     white-space: nowrap;
     position: relative;
     color: $cor-do-texto;
-    font-family: $fonte-normal
+    font-family: $fonte-normal;
+    font-size: 15px;
 }
 }  
