@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.47dd94cb.css",
+    "main.js": "/static/js/main.5888caf6.js",
+    "static/media/GandhiSans-Bold.otf": "/static/media/GandhiSans-Bold.dec9b9272eebe0777746.otf",
+    "static/media/GandhiSans-Regular.otf": "/static/media/GandhiSans-Regular.c2149b5286c581348418.otf",
+    "static/media/perfil.jpg": "/static/media/perfil.c9fcd1b07fd4e07cafd5.jpg",
+    "static/media/funcionalidade.svg": "/static/media/funcionalidade.a353624fe4d79400ba18c6d4e9eb50fa.svg",
+    "static/media/interativo.svg": "/static/media/interativo.5bfd9ee192876a7597a0def2db58815f.svg",
+    "static/media/gitHub.svg": "/static/media/gitHub.d96fa4710e739da0243e1a3a924fbfa6.svg",
+    "static/media/tecnologias.svg": "/static/media/tecnologias.1845f26c87e3e0655a5e63582bed47c6.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.5ba47312782c09663c8c33f7d505f6c7.svg",
+    "static/media/projetos.svg": "/static/media/projetos.89fb64969cd8b3c778dd81550be5b75c.svg",
+    "static/media/home.svg": "/static/media/home.5b5ae6fe35d42d2456ebdafb6dc8abc3.svg",
+    "main.47dd94cb.css.map": "/static/css/main.47dd94cb.css.map",
+    "main.5888caf6.js.map": "/static/js/main.5888caf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47dd94cb.css",
+    "static/js/main.5888caf6.js"
+  ]
+}
